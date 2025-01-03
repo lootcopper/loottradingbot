@@ -1,1 +1,1 @@
-A stock predicting bot I made, Works very well with MSFT and SPY. 
+A stock predicting bot, Works very well with MSFT and SPY. 
